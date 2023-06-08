@@ -1,0 +1,29 @@
+.one{
+    background-color: black;
+    color: white;
+}
+.contact_body{
+    background-color: blue;
+}
+.contact_h1{
+    color: red;
+}
+.content li{
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;  
+  background-color: rgb(0, 255, 242);
+  margin-left: 25px;
+
+}
+a{
+    text-decoration: none;
+}
+.Home{
+    border: 2px; 
+    background-color: red; 
+    color: white;
+     float: right;
+}
